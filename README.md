@@ -5,10 +5,10 @@ Ele está estruturado nas seguintes seções:
 
 1. Python crash course | ✅
 2. Data analysis - numpy | ✅
-3. Data analysis - pandas | ⚙️
-4. Data visualization - matplotlib | ⚠️
-5. Data visualization - seaborn | ⚠️
-6. Data visualization - pandas built in data visualization | ⚠️
+3. Data analysis - pandas | ✅
+4. Data visualization - matplotlib | ✅
+5. Data visualization - seaborn | ✅
+6. Data visualization - pandas built in data visualization | ⚙️
 7. Data visualization - plotly and cufflinks | ⚠️
 8. Data visualization - geographical plotting | ⚠️
 9. Data capstone project | ⚠️
