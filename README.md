@@ -8,10 +8,10 @@ Ele está estruturado nas seguintes seções:
 3. Data analysis - pandas | ✅
 4. Data visualization - matplotlib | ✅
 5. Data visualization - seaborn | ✅
-6. Data visualization - pandas built in data visualization | ⚙️
-7. Data visualization - plotly and cufflinks | ⚠️
-8. Data visualization - geographical plotting | ⚠️
-9. Data capstone project | ⚠️
+6. Data visualization - pandas built in data visualization | ✅
+7. Data visualization - plotly and cufflinks | ✅
+8. Data visualization - geographical plotting | ✅
+9. Data capstone project | ⚙️
 10. Machine learning - Linear regression | ⚠️
 11. Machine learning - Cross validation and bias-variance trade-off | ⚠️
 12. Machine learning - Logistic regression | ⚠️
