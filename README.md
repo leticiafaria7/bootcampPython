@@ -3,6 +3,10 @@ Este repositório contém os arquivos referentes ao curso de [Python for Data Sc
 
 Ele está estruturado nas seguintes seções:
 
+✅ - finalizado
+⚙️ - em andamento
+⚠️ - finalizado
+
 1. Python crash course | ✅
 2. Data analysis - numpy | ✅
 3. Data analysis - pandas | ✅
@@ -11,8 +15,8 @@ Ele está estruturado nas seguintes seções:
 6. Data visualization - pandas built in data visualization | ✅
 7. Data visualization - plotly and cufflinks | ✅
 8. Data visualization - geographical plotting | ✅
-9. Data capstone project | ⚙️
-10. Machine learning - Linear regression | ⚠️
+9. Data capstone project | ✅
+10. Machine learning - Linear regression | ⚙️
 11. Machine learning - Cross validation and bias-variance trade-off | ⚠️
 12. Machine learning - Logistic regression | ⚠️
 13. Machine learning - K nearest neighbors | ⚠️
