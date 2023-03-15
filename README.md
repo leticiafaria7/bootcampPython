@@ -3,9 +3,7 @@ Este repositório contém os arquivos referentes ao curso de [Python for Data Sc
 
 Ele está estruturado nas seguintes seções:
 
-✅ - finalizado
-⚙️ - em andamento
-⚠️ - finalizado
+✅ finalizado | ⚙️ em andamento | ⚠️ não iniciado
 
 1. Python crash course | ✅
 2. Data analysis - numpy | ✅
