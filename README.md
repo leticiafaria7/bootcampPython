@@ -18,10 +18,10 @@ Ele está estruturado nas seguintes seções:
 11. Machine learning - Cross validation and bias-variance trade-off | ✅
 12. Machine learning - Logistic regression | ✅
 13. Machine learning - K nearest neighbors | ✅
-14. Machine learning - Decision trees and random forests | ⚙️
-15. Machine learning - Support vector machines | ⚠️
-16. Machine learning - K means clustering | ⚠️
-17. Machine learning - Principal component analysis | ⚠️
+14. Machine learning - Decision trees and random forests | ✅
+15. Machine learning - Support vector machines | ✅
+16. Machine learning - K means clustering | ✅
+17. Machine learning - Principal component analysis | ⚙️
 18. Machine learning - Recommender systems | ⚠️
 19. Machine learning - Natural language processing | ⚠️
 20. Machine learning - Neural nets and deep learning | ⚠️
