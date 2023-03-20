@@ -21,8 +21,8 @@ Ele está estruturado nas seguintes seções:
 14. Machine learning - Decision trees and random forests | ✅
 15. Machine learning - Support vector machines | ✅
 16. Machine learning - K means clustering | ✅
-17. Machine learning - Principal component analysis | ⚙️
-18. Machine learning - Recommender systems | ⚠️
-19. Machine learning - Natural language processing | ⚠️
-20. Machine learning - Neural nets and deep learning | ⚠️
+17. Machine learning - Principal component analysis | ✅
+18. Machine learning - Recommender systems | ✅
+19. Machine learning - Natural language processing | ✅
+20. Machine learning - Neural nets and deep learning | ⚙️
 21. Machine learning - Big data and spark with python | ⚠️
