@@ -132,3 +132,6 @@ dmypy.json
 # Databases
 *.csv
 *.xlsx
+
+# tensor flow files
+TensorFlow_FILES/
